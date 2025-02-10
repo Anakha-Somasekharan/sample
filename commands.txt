@@ -6,3 +6,4 @@ git init: to initialize git
 git status :to check the status
 git add -A : to add modifications from local working directory to staging area.
 git commit -m "your message" : to commit the changes to local repository
+git log:to show modification with dates of initialisation
