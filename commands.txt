@@ -12,3 +12,4 @@ git clone:exact copy of remote repository to local repository
 git pull: to add changes in remote repository to local repository
 git remote add remotename path:to add remote repository to local repository
 git push remotename master:to push contents in local repository to remote repository
+git remote -v :listing remote
