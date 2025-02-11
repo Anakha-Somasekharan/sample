@@ -14,3 +14,4 @@ git remote add remotename path:to add remote repository to local repository
 git push remotename master:to push contents in local repository to remote repository
 git remote -v :listing remote
 git branch : command for listing all branches
+git checkout branchname:command for checkout to a branch
